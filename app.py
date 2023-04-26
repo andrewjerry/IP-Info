@@ -152,4 +152,4 @@ def api():
 
 if __name__ == "__main__":
     retrieve_csv_file()
-    app.run(debug=True, port=8000)
+    app.run(debug=True, port=80)
